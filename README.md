@@ -1,8 +1,17 @@
-# React + Vite
+<strong><h1 align="center">Bora Codar #38 - Quiz Time</h1></strong>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img alt="" src=".github/preview.png" width="100%">
+</p>
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- ReactJS
+- Tailwind
+
+
+---
+
+Feito com ♥ by [Rocketseat](https://www.rocketseat.com.br/)
